@@ -35,7 +35,7 @@ class Message extends BaseController
         $admin = auth()->user();
 
 
-        $clientModel = model('client');
+        $clientModel = model('Client');
         $listeClients = $clientModel->findAll();
 
 
