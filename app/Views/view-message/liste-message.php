@@ -12,6 +12,7 @@
     ?>
 
     <h1 class=titre>GESTIONS MESSAGES</h1>
+    <h2  class=titre> test de modification </h2>
 
     <a class=button href="<?= url_to('ajout_message') ?>">Ajouts Messages</a>
     <p></p>
