@@ -12,6 +12,7 @@
     ?>
 
     <h1 class=titre>GESTIONS MESSAGES</h1>
+    <h1>oroeoeoeo</h1>
 
     <a class=button href="<?= url_to('ajout_message') ?>">Ajouts Messages</a>
     <p></p>
